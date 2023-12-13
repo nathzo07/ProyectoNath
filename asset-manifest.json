@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/ProyectoNath/static/css/main.a240ac13.css",
+    "main.js": "/ProyectoNath/static/js/main.d3298560.js",
+    "static/js/787.0f94f0b5.chunk.js": "/ProyectoNath/static/js/787.0f94f0b5.chunk.js",
+    "static/media/project-img5.png": "/ProyectoNath/static/media/project-img5.9e9fe81825ef5a4c58f2.png",
+    "static/media/project-img2.png": "/ProyectoNath/static/media/project-img2.27752bf96402d459a8bb.png",
+    "static/media/banner-bg.png": "/ProyectoNath/static/media/banner-bg.670893c449931bdd0de8.png",
+    "static/media/project-img3.png": "/ProyectoNath/static/media/project-img3.0af608b75b0a6ab14913.png",
+    "static/media/color-sharp.png": "/ProyectoNath/static/media/color-sharp.bea361cfef80fefc2d1e.png",
+    "static/media/project-img6.png": "/ProyectoNath/static/media/project-img6.121aed8abb295fdbba66.png",
+    "static/media/project-img1.png": "/ProyectoNath/static/media/project-img1.132898ddcff479ba3f25.png",
+    "static/media/footer-bg.png": "/ProyectoNath/static/media/footer-bg.f1c0fcd360142abee2f7.png",
+    "static/media/pueblo.png": "/ProyectoNath/static/media/pueblo.d2bd4bcae0108e8621e4.png",
+    "static/media/pintura.png": "/ProyectoNath/static/media/pintura.9e34ed855b8cc6994cf3.png",
+    "static/media/CentraNo2-Bold.ttf": "/ProyectoNath/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
+    "static/media/CentraNo2-Medium.ttf": "/ProyectoNath/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
+    "static/media/monte.png": "/ProyectoNath/static/media/monte.a5768a1a96123a41b1ad.png",
+    "static/media/CentraNo2-Book.ttf": "/ProyectoNath/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "static/media/bandera.png": "/ProyectoNath/static/media/bandera.611e728802b97b45a985.png",
+    "static/media/project-img4.png": "/ProyectoNath/static/media/project-img4.41a21220baff27878e5b.png",
+    "static/media/revicons.eot": "/ProyectoNath/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/contact-img.svg": "/ProyectoNath/static/media/contact-img.8bbd9e46b77cef2fc19008a8167c3305.svg",
+    "static/media/revicons.ttf": "/ProyectoNath/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/ProyectoNath/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/logo.svg": "/ProyectoNath/static/media/logo.7525a35089e97000ee0944b77d52433c.svg",
+    "static/media/header-img.svg": "/ProyectoNath/static/media/header-img.2c288ba325eab76f99b18dc65af0f412.svg",
+    "static/media/nav-icon3.svg": "/ProyectoNath/static/media/nav-icon3.08b285abb8e118b52637efa5d65c5367.svg",
+    "index.html": "/ProyectoNath/index.html",
+    "static/media/nav-icon1.svg": "/ProyectoNath/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
+    "static/media/nav-icon2.svg": "/ProyectoNath/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
+    "main.a240ac13.css.map": "/ProyectoNath/static/css/main.a240ac13.css.map",
+    "main.d3298560.js.map": "/ProyectoNath/static/js/main.d3298560.js.map",
+    "787.0f94f0b5.chunk.js.map": "/ProyectoNath/static/js/787.0f94f0b5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a240ac13.css",
+    "static/js/main.d3298560.js"
+  ]
+}
